@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" name="MyApp" packages="">
+    <Appenders>
+        <param name="MaxBackupIndex" value="2" />
+        <param name="MaxFileSize" value="1KB" />
+        <File name="MyFile" fileName="logs/app.txt">
+            <PatternLayout>
+                <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+            </PatternLayout>
+        </File>
+        <Async name="Async">
+            <AppenderRef ref="MyFile"/>
+        </Async>
+    </Appenders>
+    <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="Async"/>
+        </Root>
+    </Loggers>
+</Configuration>

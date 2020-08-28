@@ -1,0 +1,409 @@
+
+2020-08-27 15:09:38,637 TRACE c.s.c.u.SorterLoader [main] Making: BubbleSorter.java
+2020-08-27 15:09:38,640 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BubbleSorter
+2020-08-27 15:09:38,641 TRACE c.s.c.u.SorterLoader [main] Making: MergeSorter.java
+2020-08-27 15:09:38,641 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.MergeSorter
+2020-08-27 15:09:38,641 TRACE c.s.c.u.SorterLoader [main] Making: IterativeMergeSorter.java
+2020-08-27 15:09:38,641 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.IterativeMergeSorter
+2020-08-27 15:09:38,642 TRACE c.s.c.u.SorterLoader [main] Making: BinaryTreeSorter.java
+2020-08-27 15:09:38,642 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BinaryTreeSorter
+2020-08-27 15:09:38,643 DEBUG c.s.c.u.SorterLoader [main] BinaryTreeSorter.java
+2020-08-27 15:11:12,474 TRACE c.s.c.u.SorterLoader [main] Making: BubbleSorter.java
+2020-08-27 15:11:12,476 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BubbleSorter
+2020-08-27 15:11:12,476 TRACE c.s.c.u.SorterLoader [main] Making: MergeSorter.java
+2020-08-27 15:11:12,476 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.MergeSorter
+2020-08-27 15:11:12,477 TRACE c.s.c.u.SorterLoader [main] Making: IterativeMergeSorter.java
+2020-08-27 15:11:12,477 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.IterativeMergeSorter
+2020-08-27 15:11:12,477 TRACE c.s.c.u.SorterLoader [main] Making: BinaryTreeSorter.java
+2020-08-27 15:11:12,477 DEBUG c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BinaryTreeSorter
+2020-08-27 15:11:12,479 DEBUG c.s.c.u.SorterLoader [main] BinaryTreeSorter.java
+2020-08-27 15:11:35,679 TRACE c.s.c.u.SorterLoader [main] Making: BubbleSorter.java
+2020-08-27 15:11:35,682 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BubbleSorter
+2020-08-27 15:11:35,683 TRACE c.s.c.u.SorterLoader [main] Making: MergeSorter.java
+2020-08-27 15:11:35,683 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.MergeSorter
+2020-08-27 15:11:35,683 TRACE c.s.c.u.SorterLoader [main] Making: IterativeMergeSorter.java
+2020-08-27 15:11:35,683 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.IterativeMergeSorter
+2020-08-27 15:11:35,684 TRACE c.s.c.u.SorterLoader [main] Making: BinaryTreeSorter.java
+2020-08-27 15:11:35,684 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BinaryTreeSorter
+2020-08-27 15:11:35,686 DEBUG c.s.c.u.SorterLoader [main] BinaryTreeSorter.java
+2020-08-27 15:12:06,784 TRACE c.s.c.u.SorterLoader [main] Making: BubbleSorter.java
+2020-08-27 15:12:06,787 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BubbleSorter
+2020-08-27 15:12:06,787 TRACE c.s.c.u.SorterLoader [main] Making: MergeSorter.java
+2020-08-27 15:12:06,787 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.MergeSorter
+2020-08-27 15:12:06,788 TRACE c.s.c.u.SorterLoader [main] Making: IterativeMergeSorter.java
+2020-08-27 15:12:06,788 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.IterativeMergeSorter
+2020-08-27 15:12:06,788 TRACE c.s.c.u.SorterLoader [main] Making: BinaryTreeSorter.java
+2020-08-27 15:12:06,788 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.BinaryTreeSorter
+2020-08-27 15:12:06,790 DEBUG c.s.c.u.SorterLoader [main] BinaryTreeSorter.java
+2020-08-27 16:00:05,202 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:00:05,205 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-27 16:00:05,210 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:05,210 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:05,210 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:05,213 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:05,214 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:00:05,214 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:00:05,214 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:00:05,214 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:00:05,215 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:00:05,220 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0 Milliseconds
+2020-08-27 16:00:35,606 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:00:35,610 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-27 16:00:35,613 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:35,613 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:35,613 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:35,614 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:00:35,615 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:00:35,615 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:00:35,616 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:00:35,616 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:00:35,616 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:00:35,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0 Milliseconds
+2020-08-27 16:01:46,510 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:01:46,512 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-27 16:01:46,516 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:46,516 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:46,516 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:46,516 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:46,517 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:01:46,517 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:01:46,518 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:01:46,518 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:01:46,518 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:01:46,522 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0 Milliseconds
+2020-08-27 16:01:57,634 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:01:57,640 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:01:57,799 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:57,799 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:57,799 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:57,846 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:01:57,848 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:01:57,848 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:01:57,849 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:01:57,849 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:01:57,850 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:11,892 INFO c.s.c.u.SpeedTest [main] Speed test completed in 13901 Milliseconds
+2020-08-27 16:02:11,892 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:11,906 INFO c.s.c.u.SpeedTest [main] Speed test completed in 13 Milliseconds
+2020-08-27 16:02:11,906 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:11,908 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2 Milliseconds
+2020-08-27 16:02:11,908 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:11,923 INFO c.s.c.u.SpeedTest [main] Speed test completed in 14 Milliseconds
+2020-08-27 16:02:11,923 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:12,070 INFO c.s.c.u.SpeedTest [main] Speed test completed in 12 Milliseconds
+2020-08-27 16:02:12,070 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:41,283 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:02:41,289 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:02:41,460 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:41,461 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:41,461 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:41,526 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:41,528 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:02:41,528 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:02:41,529 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:02:41,529 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:02:41,530 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:41,686 INFO c.s.c.u.SpeedTest [main] Speed test completed in 15 Milliseconds
+2020-08-27 16:02:51,254 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:02:51,257 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-27 16:02:51,260 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:51,260 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:51,260 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:51,261 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:02:51,262 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:02:51,262 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:02:51,263 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:02:51,263 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:02:51,263 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:02:51,267 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0 Milliseconds
+2020-08-27 16:03:03,938 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:03:03,942 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-27 16:03:03,973 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:03,973 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:03,973 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:03,976 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:03,978 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:03:03,978 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:03:03,978 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:03:03,979 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:03:03,979 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:03:04,053 INFO c.s.c.u.SpeedTest [main] Speed test completed in 53 Milliseconds
+2020-08-27 16:03:13,378 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:03:13,385 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:03:13,543 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:13,543 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:13,543 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:13,591 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:03:13,593 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:03:13,593 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:03:13,593 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:03:13,593 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:03:13,594 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:07:46,732 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:07:46,735 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 20
+2020-08-27 16:07:46,739 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:07:46,739 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:07:46,739 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:07:46,740 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:07:46,741 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:07:46,741 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:07:46,742 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:07:46,742 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:07:46,742 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:07:46,747 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0 Milliseconds
+2020-08-27 16:08:24,309 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:08:24,315 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 50000
+2020-08-27 16:08:24,406 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:24,406 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:24,406 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:24,424 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:24,426 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:08:24,426 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:08:24,427 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:08:24,427 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:08:24,428 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:08:36,654 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:08:36,658 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 25000
+2020-08-27 16:08:36,721 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:36,721 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:36,721 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:36,729 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:08:36,730 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:08:36,731 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:08:36,731 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:08:36,731 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:08:36,732 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:08:37,181 INFO c.s.c.u.SpeedTest [main] Speed test completed in 405 Milliseconds
+2020-08-27 16:17:30,509 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:17:30,515 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 50000
+2020-08-27 16:17:30,608 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:17:30,608 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:17:30,609 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:17:30,627 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:17:30,629 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:17:30,629 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:17:30,629 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:17:30,629 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:17:30,630 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:22:00,567 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:22:00,573 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 50000
+2020-08-27 16:22:00,685 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:00,686 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:00,686 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:00,704 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:00,706 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:22:00,707 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:22:00,707 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:22:00,707 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:22:00,708 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:22:29,209 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:22:29,213 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 50000
+2020-08-27 16:22:29,320 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:29,320 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:29,320 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:29,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:22:29,339 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:22:29,339 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:22:29,340 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:22:29,340 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:22:29,341 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:24:17,765 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:24:17,771 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 50000
+2020-08-27 16:24:17,871 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:24:17,871 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:24:17,871 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:24:17,889 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:24:17,892 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:24:17,892 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:24:17,892 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:24:17,892 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:24:17,893 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:26:28,493 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:26:28,500 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 50000
+2020-08-27 16:26:28,608 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:26:28,608 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:26:28,608 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:26:28,627 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:26:28,629 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:26:28,629 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:26:28,629 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:26:28,629 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:26:28,630 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:31:57,857 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:31:57,864 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:31:58,041 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:31:58,041 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:31:58,041 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:31:58,107 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:31:58,109 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:31:58,110 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:31:58,110 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:31:58,110 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:31:58,111 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:31:58,958 INFO c.s.c.u.SpeedTest [main] Speed test completed in 713 Milliseconds
+2020-08-27 16:43:49,645 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:43:49,649 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 12000
+2020-08-27 16:43:49,685 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:43:49,685 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:43:49,685 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:43:49,689 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:43:49,691 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:43:49,691 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:43:49,691 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:43:49,691 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:43:49,692 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:43:49,714 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0 Milliseconds
+2020-08-27 16:44:18,575 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:44:18,581 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:44:18,760 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:44:18,760 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:44:18,760 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:44:18,825 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:44:18,827 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:44:18,827 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:44:18,827 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:44:18,828 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:44:18,828 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:44:18,973 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2 Milliseconds
+2020-08-27 16:48:10,931 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:48:10,934 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 12000
+2020-08-27 16:48:10,965 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:10,965 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:10,965 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:10,968 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:10,969 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:48:10,969 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:48:10,970 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:48:10,970 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:48:10,971 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:48:10,992 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0 Milliseconds
+2020-08-27 16:48:26,604 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:48:26,610 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:48:26,772 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:26,773 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:26,773 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:26,838 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:48:26,841 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:48:26,841 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:48:26,841 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:48:26,841 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:48:26,842 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:48:26,982 INFO c.s.c.u.SpeedTest [main] Speed test completed in 3.0 Milliseconds
+2020-08-27 16:49:17,533 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:49:17,539 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:49:17,702 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:49:17,702 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:49:17,702 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:49:17,769 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:49:17,771 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:49:17,771 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:49:17,772 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:49:17,772 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:49:17,772 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:49:31,833 INFO c.s.c.u.SpeedTest [main] Speed test completed in 13921.0876 Milliseconds
+2020-08-27 16:49:31,833 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:49:31,846 INFO c.s.c.u.SpeedTest [main] Speed test completed in 12.847 Milliseconds
+2020-08-27 16:49:31,846 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:49:31,849 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.7819 Milliseconds
+2020-08-27 16:49:31,849 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:49:31,862 INFO c.s.c.u.SpeedTest [main] Speed test completed in 12.8473 Milliseconds
+2020-08-27 16:49:31,862 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:49:31,873 INFO c.s.c.u.SpeedTest [main] Speed test completed in 11.0547 Milliseconds
+2020-08-27 16:49:31,873 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:49:32,587 INFO c.s.c.u.SpeedTest [main] Speed test completed in 713.261 Milliseconds
+2020-08-27 16:56:50,775 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:56:50,777 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-27 16:56:50,780 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:56:50,780 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:56:50,780 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:56:50,781 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:56:50,782 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:56:50,782 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:56:50,783 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:56:50,783 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:56:50,783 TRACE c.s.c.u.SorterLoader [main] Making: SelectionSorter.java
+2020-08-27 16:56:50,783 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
+2020-08-27 16:56:50,784 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:56:50,787 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0103 Milliseconds
+2020-08-27 16:57:05,124 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:57:05,129 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:57:05,296 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:05,296 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:05,296 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:05,361 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:05,363 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:57:05,363 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:57:05,363 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:57:05,364 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:57:05,364 TRACE c.s.c.u.SorterLoader [main] Making: SelectionSorter.java
+2020-08-27 16:57:05,364 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
+2020-08-27 16:57:05,365 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:10,193 INFO c.s.c.u.SpeedTest [main] Speed test completed in 4695.5732 Milliseconds
+2020-08-27 16:57:31,016 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 16:57:31,022 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-27 16:57:31,188 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:31,188 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:31,188 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:31,254 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 16:57:31,256 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 16:57:31,256 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 16:57:31,256 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 16:57:31,256 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 16:57:31,257 TRACE c.s.c.u.SorterLoader [main] Making: SelectionSorter.java
+2020-08-27 16:57:31,257 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
+2020-08-27 16:57:31,257 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:45,357 INFO c.s.c.u.SpeedTest [main] Speed test completed in 13966.3974 Milliseconds
+2020-08-27 16:57:45,357 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:45,371 INFO c.s.c.u.SpeedTest [main] Speed test completed in 12.9666 Milliseconds
+2020-08-27 16:57:45,371 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:45,374 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.7175 Milliseconds
+2020-08-27 16:57:45,374 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:45,386 INFO c.s.c.u.SpeedTest [main] Speed test completed in 12.6658 Milliseconds
+2020-08-27 16:57:45,387 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:45,397 INFO c.s.c.u.SpeedTest [main] Speed test completed in 10.623 Milliseconds
+2020-08-27 16:57:45,397 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:46,111 INFO c.s.c.u.SpeedTest [main] Speed test completed in 713.4087 Milliseconds
+2020-08-27 16:57:46,111 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 16:57:50,838 INFO c.s.c.u.SpeedTest [main] Speed test completed in 4726.2764 Milliseconds
+2020-08-27 17:01:18,858 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 17:01:18,861 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-27 17:01:18,865 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:18,865 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:18,865 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:18,866 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:18,867 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 17:01:18,867 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 17:01:18,868 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 17:01:18,868 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 17:01:18,868 TRACE c.s.c.u.SorterLoader [main] Making: SelectionSorter.java
+2020-08-27 17:01:18,868 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
+2020-08-27 17:01:18,869 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 17:01:18,872 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0239 Milliseconds
+2020-08-27 17:01:32,466 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 17:01:32,468 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-27 17:01:32,472 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:32,472 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:32,472 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:32,473 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:01:32,474 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 17:01:32,474 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 17:01:32,474 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 17:01:32,474 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 17:01:32,475 TRACE c.s.c.u.SorterLoader [main] Making: SelectionSorter.java
+2020-08-27 17:01:32,475 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
+2020-08-27 17:01:32,476 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 17:01:32,479 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0249 Milliseconds
+2020-08-27 17:02:39,754 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-27 17:02:39,756 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 1000
+2020-08-27 17:02:39,765 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:02:39,765 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:02:39,765 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:02:39,766 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-27 17:02:39,767 TRACE c.s.c.u.SorterLoader [main] Making: QuickSorter.java
+2020-08-27 17:02:39,767 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.QuickSorter
+2020-08-27 17:02:39,768 TRACE c.s.c.u.SorterLoader [main] Making: InsertionSorter.java
+2020-08-27 17:02:39,768 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.InsertionSorter
+2020-08-27 17:02:39,768 TRACE c.s.c.u.SorterLoader [main] Making: SelectionSorter.java
+2020-08-27 17:02:39,768 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
+2020-08-27 17:02:39,769 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-27 17:02:39,773 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1013 Milliseconds
