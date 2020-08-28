@@ -1,6 +1,6 @@
 # SortManager
 
-SortManager is a peice of software that generates arrays to be sorted by a variety of different sorting algorithms. These algorithms can then be compared against eachother.
+SortManager is a piece of software that generates arrays to be sorted by a variety of different sorting algorithms. These algorithms can then be compared against eachother.
 
 
 ## Usage
@@ -9,6 +9,7 @@ SortManager is a peice of software that generates arrays to be sorted by a varie
 Enter option:
 ```
 This first input requires a number that exists on the menu. If it is not a number or outside this range it will ask you to try again.
+If you enter -1 at any of the inputs it will exit the program
 ```
 Enter length of array to automatically generate:
 ```
@@ -26,7 +27,7 @@ Please Enter First Algorithm
 
 Please Enter Second Algorithm
 ```
-This option is shown if you chose 1 from the second menu. You must select a number between 1 and 7 as they are the only valid sorts.
+If you chose 1 from the second menu. You must select a number between 1 and 7 as they are the only valid sorts.
 ## Logging
 
 The app.txt file located within the logs directory logs information about the program.
