@@ -1,5 +1,7 @@
 package com.sparta.cm.sortermethods;
 
+import com.sparta.cm.utility.ArrayGenerator;
+
 public class BubbleSorter extends Sort {
 
     public int[] sortArray(int[] array){
@@ -13,7 +15,7 @@ public class BubbleSorter extends Sort {
                     break;
                 }
                 else if (array[position + 1] < array[position]) {
-                    array = swap(array, position);
+                    ArrayGenerator.swap(array, position, position+1);
                     swapsOnPass++;
                 }
             }
@@ -25,12 +27,6 @@ public class BubbleSorter extends Sort {
         return array;
     }
 
-    private static int[] swap(int[] array, int position) {
-        int temp = array[position + 1];
-        array[position + 1] = array[position];
-        array[position] = temp;
-        return array;
-    }
 
     @Override
     public String getName() {

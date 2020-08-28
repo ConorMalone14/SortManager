@@ -40,4 +40,9 @@ public class ArrayGenerator {
         secondArrayPointer++;
         return secondArrayPointer;
     }
+    public static void swap(int[] array, int position, int secondPosition) {
+        int temp = array[secondPosition];
+        array[secondPosition] = array[position];
+        array[position] = temp;
+    }
 }

@@ -13,7 +13,7 @@ public class GenericSorter{
                     break;
                 }
                 else if (array[position+1].toString().compareTo(array[position].toString())<0){
-                        array = swap(array, position);
+                        swap(array, position);
                     swapsOnPass++;
                 }
             }
@@ -25,11 +25,10 @@ public class GenericSorter{
         return array;
     }
 
-    private static <T> T[] swap(T[] array, int position) {
+    private static <T> void swap(T[] array, int position) {
         T temp = array[position + 1];
         array[position + 1] = array[position];
         array[position] = temp;
-        return array;
     }
 
 }

@@ -30,19 +30,9 @@ public class Node {
         this.rightNode = rightNode;
     }
     public boolean isThereALeftChild(){
-        if(leftNode==null){
-            return false;
-        }
-        else {
-            return true;
-        }
+        return leftNode != null;
     }
     public boolean isThereARightChild(){
-        if(rightNode==null){
-            return false;
-        }
-        else {
-            return true;
-        }
+        return rightNode != null;
     }
 }

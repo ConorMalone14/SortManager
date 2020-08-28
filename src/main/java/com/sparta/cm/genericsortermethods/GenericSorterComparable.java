@@ -12,7 +12,7 @@ public class GenericSorterComparable {
                     break;
                 }
                 else if (array[position + 1].compareTo(array[position])<0) {
-                    array = swap(array, position);
+                    swap(array, position);
                     swapsOnPass++;
                 }
             }

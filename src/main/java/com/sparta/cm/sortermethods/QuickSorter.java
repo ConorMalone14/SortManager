@@ -1,5 +1,7 @@
 package com.sparta.cm.sortermethods;
 
+import com.sparta.cm.utility.ArrayGenerator;
+
 public class QuickSorter extends Sort{
     //code adapted from geeksforgeeks
     @Override
@@ -7,7 +9,7 @@ public class QuickSorter extends Sort{
         sort(array, 0, array.length-1);
         return array;
     }
-    private void sort(int arr[], int low, int high)
+    private void sort(int[] arr, int low, int high)
     {
         if (low < high)
         {
@@ -16,7 +18,7 @@ public class QuickSorter extends Sort{
             sort(arr, index+1, high);
         }
     }
-    private int partition(int arr[], int low, int high)
+    private int partition(int[] arr, int low, int high)
     {
         int pivot = arr[high];
         int indexOfSmallestElement = (low-1);
@@ -25,18 +27,13 @@ public class QuickSorter extends Sort{
             if (arr[pointer] < pivot)
             {
                 indexOfSmallestElement++;
-                swap(arr, pointer, indexOfSmallestElement);
+                ArrayGenerator.swap(arr, pointer, indexOfSmallestElement);
             }
         }
-        swap(arr, high, indexOfSmallestElement + 1);
+        ArrayGenerator.swap(arr, high, indexOfSmallestElement + 1);
         return indexOfSmallestElement+1;
     }
 
-    private void swap(int[] arr, int j, int i) {
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
 
     @Override
     public String getName() {
