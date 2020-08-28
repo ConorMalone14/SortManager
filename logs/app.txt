@@ -407,3 +407,1501 @@
 2020-08-27 17:02:39,768 TRACE c.s.c.u.SorterLoader [main] com.sparta.cm.sortermethods.SelectionSorter
 2020-08-27 17:02:39,769 TRACE c.s.c.u.SpeedTest [main] Testing Speed
 2020-08-27 17:02:39,773 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1013 Milliseconds
+2020-08-28 10:56:19,059 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 10:56:19,062 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 10:56:19,067 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,067 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,069 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0103 Milliseconds
+2020-08-28 10:56:19,070 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,070 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,070 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.019 Milliseconds
+2020-08-28 10:56:19,070 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,072 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,072 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0055 Milliseconds
+2020-08-28 10:56:19,072 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,072 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,072 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0095 Milliseconds
+2020-08-28 10:56:19,072 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,072 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,072 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0073 Milliseconds
+2020-08-28 10:56:19,072 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,072 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,073 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0021 Milliseconds
+2020-08-28 10:56:19,073 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:19,073 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:19,073 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.004 Milliseconds
+2020-08-28 10:56:31,895 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 10:56:31,897 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 1000
+2020-08-28 10:56:31,907 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:31,908 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:31,915 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.8844 Milliseconds
+2020-08-28 10:56:57,388 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 10:56:57,391 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 10:56:57,394 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,395 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,397 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0106 Milliseconds
+2020-08-28 10:56:57,397 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,397 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,397 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0135 Milliseconds
+2020-08-28 10:56:57,397 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,398 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,398 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0054 Milliseconds
+2020-08-28 10:56:57,398 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,398 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,398 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0095 Milliseconds
+2020-08-28 10:56:57,398 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,398 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,398 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0069 Milliseconds
+2020-08-28 10:56:57,398 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,398 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,398 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0022 Milliseconds
+2020-08-28 10:56:57,398 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:56:57,398 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:56:57,398 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.004 Milliseconds
+2020-08-28 10:57:19,713 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 10:57:19,716 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 1000
+2020-08-28 10:57:19,726 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,726 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,735 INFO c.s.c.u.SpeedTest [main] Speed test completed in 4.2166 Milliseconds
+2020-08-28 10:57:19,735 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,735 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,736 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.7575 Milliseconds
+2020-08-28 10:57:19,736 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,737 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,737 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0903 Milliseconds
+2020-08-28 10:57:19,737 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,737 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,737 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.4025 Milliseconds
+2020-08-28 10:57:19,737 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,737 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,738 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.3373 Milliseconds
+2020-08-28 10:57:19,738 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,738 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,740 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.0734 Milliseconds
+2020-08-28 10:57:19,740 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 10:57:19,740 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 10:57:19,743 INFO c.s.c.u.SpeedTest [main] Speed test completed in 3.2346 Milliseconds
+2020-08-28 11:51:49,692 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 11:51:49,695 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 11:51:49,703 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:51:49,703 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:53:15,169 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 11:53:15,171 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 11:55:29,159 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 11:55:29,162 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 1000
+2020-08-28 11:55:43,622 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,623 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,630 INFO c.s.c.u.SpeedTest [main] Speed test completed in 4.1987 Milliseconds
+2020-08-28 11:55:43,631 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,631 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,632 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,632 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.6414 Milliseconds
+2020-08-28 11:55:43,632 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,632 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,635 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,635 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1103 Milliseconds
+2020-08-28 11:55:43,635 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,635 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,635 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,636 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.4801 Milliseconds
+2020-08-28 11:55:43,636 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,636 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,636 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,636 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.3061 Milliseconds
+2020-08-28 11:55:43,636 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,636 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,636 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,638 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.1454 Milliseconds
+2020-08-28 11:55:43,638 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,638 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:43,639 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:43,642 INFO c.s.c.u.SpeedTest [main] Speed test completed in 3.4304 Milliseconds
+2020-08-28 11:55:43,642 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:50,838 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 11:55:50,839 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 11:55:59,330 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:59,330 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:59,447 INFO c.s.c.u.SpeedTest [main] Speed test completed in 104.3345 Milliseconds
+2020-08-28 11:55:59,448 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:59,448 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:59,448 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:55:59,468 INFO c.s.c.u.SpeedTest [main] Speed test completed in 6.0691 Milliseconds
+2020-08-28 11:55:59,468 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:59,468 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:55:59,469 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:57:07,540 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 11:57:07,542 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 11:57:07,546 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:57:07,547 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 11:57:07,549 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0109 Milliseconds
+2020-08-28 11:57:12,234 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 11:57:12,234 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 20
+2020-08-28 11:57:12,235 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 11:57:12,235 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:00:45,953 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:00:45,956 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:00:45,959 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:00:45,961 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:00:45,962 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0117 Milliseconds
+2020-08-28 12:00:48,828 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:00:48,828 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 15
+2020-08-28 12:00:48,828 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:00:48,828 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:03:19,441 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:03:19,444 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:03:19,448 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:03:19,449 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:03:19,450 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.011 Milliseconds
+2020-08-28 12:03:22,655 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:03:22,655 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 15
+2020-08-28 12:03:22,655 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:03:22,656 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:03:22,656 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0081 Milliseconds
+2020-08-28 12:04:13,013 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:04:13,015 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:04:13,019 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:04:13,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:04:13,021 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0114 Milliseconds
+2020-08-28 12:04:29,467 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:04:29,469 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:04:29,473 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:04:29,474 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:04:29,476 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0108 Milliseconds
+2020-08-28 12:05:13,138 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:05:13,141 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:05:13,144 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:05:13,145 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:05:13,147 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0116 Milliseconds
+2020-08-28 12:06:00,077 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:06:00,077 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:06:00,077 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:06:00,077 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:06:00,078 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0075 Milliseconds
+2020-08-28 12:08:24,525 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:08:24,528 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:08:24,531 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:08:24,533 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:24,533 DEBUG c.s.c.s.BinaryTreeSorter [main] 0
+2020-08-28 12:08:49,610 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:08:49,613 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:08:49,617 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:08:49,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 82
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 221
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 573
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 580
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 611
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 612
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 687
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 818
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 867
+2020-08-28 12:08:49,618 DEBUG c.s.c.s.BinaryTreeSorter [main] 942
+2020-08-28 12:08:49,620 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.5148 Milliseconds
+2020-08-28 12:10:05,689 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:10:05,691 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:10:05,694 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:10:05,696 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 87
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 202
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 260
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 308
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 382
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 399
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 450
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 664
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 751
+2020-08-28 12:10:05,696 DEBUG c.s.c.s.BinaryTreeSorter [main] 780
+2020-08-28 12:10:05,697 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 87
+2020-08-28 12:10:05,698 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.8435 Milliseconds
+2020-08-28 12:10:54,746 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:10:54,748 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:10:54,752 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:10:54,753 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 55
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 241
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 299
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 391
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 392
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 495
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 514
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 782
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 913
+2020-08-28 12:10:54,753 DEBUG c.s.c.s.BinaryTreeSorter [main] 932
+2020-08-28 12:10:54,754 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 55
+2020-08-28 12:10:54,755 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.6726 Milliseconds
+2020-08-28 12:11:09,753 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:11:09,756 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:11:09,760 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:11:09,761 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 125
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 173
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 187
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 302
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 310
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 471
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 663
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 752
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 779
+2020-08-28 12:11:09,761 DEBUG c.s.c.s.BinaryTreeSorter [main] 804
+2020-08-28 12:11:09,762 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 125
+2020-08-28 12:11:09,763 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.7727 Milliseconds
+2020-08-28 12:12:28,741 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:12:28,743 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:12:28,747 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:12:28,748 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:12:28,748 DEBUG c.s.c.u.SpeedTest [main] outside:215
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 119
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 215
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 347
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 383
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 395
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 451
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 486
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 527
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 564
+2020-08-28 12:12:28,748 DEBUG c.s.c.s.BinaryTreeSorter [main] 929
+2020-08-28 12:12:28,749 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 119
+2020-08-28 12:12:28,750 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.6297 Milliseconds
+2020-08-28 12:15:54,715 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:15:54,717 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:15:54,721 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:15:54,722 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:15:54,722 DEBUG c.s.c.u.SpeedTest [main] outside:277
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 72
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 181
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 277
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 410
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 739
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 791
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 805
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 876
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 888
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] 978
+2020-08-28 12:15:54,723 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 72
+2020-08-28 12:15:54,725 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.9598 Milliseconds
+2020-08-28 12:18:26,889 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:18:26,891 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:18:26,895 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:18:26,896 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 1
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 82
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 113
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 338
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 392
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 665
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 686
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 726
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 882
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] 936
+2020-08-28 12:18:26,896 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 1
+2020-08-28 12:18:26,896 DEBUG c.s.c.u.SpeedTest [main] outside:882
+2020-08-28 12:18:26,898 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.8151 Milliseconds
+2020-08-28 12:19:43,440 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:19:43,442 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:19:43,446 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:19:43,447 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 158
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 234
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 289
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 306
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 567
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 621
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 634
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 691
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 713
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] 756
+2020-08-28 12:19:43,447 DEBUG c.s.c.s.BinaryTreeSorter [main] output0 158
+2020-08-28 12:19:43,447 DEBUG c.s.c.u.SpeedTest [main] outside:158
+2020-08-28 12:19:43,449 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.8101 Milliseconds
+2020-08-28 12:20:30,371 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:20:30,373 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:20:30,377 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:20:30,378 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:20:30,380 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0109 Milliseconds
+2020-08-28 12:20:32,973 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:20:32,973 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:20:32,973 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:20:32,973 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:20:32,974 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0101 Milliseconds
+2020-08-28 12:22:24,588 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:22:24,591 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:22:24,595 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:22:24,596 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:22:24,597 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0101 Milliseconds
+2020-08-28 12:22:24,597 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:23:05,431 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:23:05,433 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 12:23:05,437 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:23:05,438 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:23:05,440 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0108 Milliseconds
+2020-08-28 12:23:05,440 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:23:12,741 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:23:12,741 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 12:23:23,318 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:23:23,318 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:23:23,320 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.2735 Milliseconds
+2020-08-28 12:23:23,320 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:23:23,320 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:23:23,320 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0135 Milliseconds
+2020-08-28 12:23:23,320 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:23:23,320 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:28,856 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:25:28,859 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 12:25:38,918 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:38,918 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:38,921 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.271 Milliseconds
+2020-08-28 12:25:38,921 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:38,921 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:38,921 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0484 Milliseconds
+2020-08-28 12:25:38,921 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:38,922 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:46,694 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 12:25:46,694 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 12:25:50,742 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,742 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,743 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1839 Milliseconds
+2020-08-28 12:25:50,743 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,743 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,743 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,743 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0933 Milliseconds
+2020-08-28 12:25:50,743 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,744 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,745 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0154 Milliseconds
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,745 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0459 Milliseconds
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,745 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0287 Milliseconds
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,745 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0425 Milliseconds
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 12:25:50,745 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 12:25:50,745 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0735 Milliseconds
+2020-08-28 12:25:50,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:07,386 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:06:07,388 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 13:06:09,262 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,263 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,264 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0105 Milliseconds
+2020-08-28 13:06:09,264 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,265 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,265 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,265 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.013199 Milliseconds
+2020-08-28 13:06:09,265 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,265 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,266 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,266 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.005 Milliseconds
+2020-08-28 13:06:09,266 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,266 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,266 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,266 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0091 Milliseconds
+2020-08-28 13:06:09,266 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,266 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,266 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,266 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.005301 Milliseconds
+2020-08-28 13:06:09,266 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,267 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,267 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,267 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.002 Milliseconds
+2020-08-28 13:06:09,267 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,267 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:06:09,267 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:06:09,267 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.005101 Milliseconds
+2020-08-28 13:06:09,267 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:08:05,604 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:08:05,606 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:08:55,167 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:08:55,173 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100000
+2020-08-28 13:08:59,102 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:08:59,103 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:13,025 INFO c.s.c.u.SpeedTest [main] Speed test completed in 13783.8874 Milliseconds
+2020-08-28 13:09:13,025 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,026 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,026 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:13,039 INFO c.s.c.u.SpeedTest [main] Speed test completed in 13.1033 Milliseconds
+2020-08-28 13:09:13,039 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,039 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,106 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:13,108 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.0947 Milliseconds
+2020-08-28 13:09:13,108 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,171 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,171 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:13,190 INFO c.s.c.u.SpeedTest [main] Speed test completed in 18.3033 Milliseconds
+2020-08-28 13:09:13,190 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,190 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,190 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:13,201 INFO c.s.c.u.SpeedTest [main] Speed test completed in 10.6313 Milliseconds
+2020-08-28 13:09:13,201 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,201 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,201 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:13,907 INFO c.s.c.u.SpeedTest [main] Speed test completed in 705.789601 Milliseconds
+2020-08-28 13:09:13,907 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,907 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:09:13,907 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:09:18,545 INFO c.s.c.u.SpeedTest [main] Speed test completed in 4637.4008 Milliseconds
+2020-08-28 13:09:18,545 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:27,845 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:13:27,847 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:13:31,334 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,334 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,336 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1849 Milliseconds
+2020-08-28 13:13:31,336 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,337 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,337 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,337 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.086599 Milliseconds
+2020-08-28 13:13:31,337 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,337 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,338 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0211 Milliseconds
+2020-08-28 13:13:31,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,338 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0487 Milliseconds
+2020-08-28 13:13:31,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,338 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.029999 Milliseconds
+2020-08-28 13:13:31,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,338 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,339 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0449 Milliseconds
+2020-08-28 13:13:31,339 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,339 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:13:31,339 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:13:31,339 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.073401 Milliseconds
+2020-08-28 13:13:31,339 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:53,378 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:53,380 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,635 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,636 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,639 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1933 Milliseconds
+2020-08-28 13:48:58,639 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,639 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,639 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,639 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,640 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1357 Milliseconds
+2020-08-28 13:48:58,640 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,640 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,640 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,640 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,641 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1276 Milliseconds
+2020-08-28 13:48:58,641 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,641 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,641 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,641 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,642 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1346 Milliseconds
+2020-08-28 13:48:58,642 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,642 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,642 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,642 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,642 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1307 Milliseconds
+2020-08-28 13:48:58,643 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,643 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,644 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,644 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0863 Milliseconds
+2020-08-28 13:48:58,644 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,644 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,644 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,644 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,644 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0691 Milliseconds
+2020-08-28 13:48:58,644 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,644 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,644 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,644 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,644 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0751 Milliseconds
+2020-08-28 13:48:58,644 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,644 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,644 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,644 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,644 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0618 Milliseconds
+2020-08-28 13:48:58,644 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,644 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,644 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,644 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,644 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.059 Milliseconds
+2020-08-28 13:48:58,645 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,645 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,646 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,646 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0172 Milliseconds
+2020-08-28 13:48:58,646 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,646 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,646 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,646 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,646 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0092 Milliseconds
+2020-08-28 13:48:58,646 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,646 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,646 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,647 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,647 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0087 Milliseconds
+2020-08-28 13:48:58,647 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,647 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,647 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,647 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,647 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0087 Milliseconds
+2020-08-28 13:48:58,647 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,647 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,647 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,647 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,647 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0082 Milliseconds
+2020-08-28 13:48:58,647 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,647 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,647 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,647 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0491 Milliseconds
+2020-08-28 13:48:58,647 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,647 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,647 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,647 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,647 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0454 Milliseconds
+2020-08-28 13:48:58,647 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,647 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,648 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0511 Milliseconds
+2020-08-28 13:48:58,648 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,648 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,648 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0441 Milliseconds
+2020-08-28 13:48:58,648 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,648 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,648 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0154 Milliseconds
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,648 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0265 Milliseconds
+2020-08-28 13:48:58,648 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,648 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,648 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0334 Milliseconds
+2020-08-28 13:48:58,648 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,648 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,648 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,648 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,649 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0263 Milliseconds
+2020-08-28 13:48:58,649 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,649 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,649 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,649 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,649 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.032 Milliseconds
+2020-08-28 13:48:58,649 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,649 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,649 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,649 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,649 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.023 Milliseconds
+2020-08-28 13:48:58,649 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,649 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,649 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,649 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0459 Milliseconds
+2020-08-28 13:48:58,649 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,649 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,649 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,649 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,649 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0423 Milliseconds
+2020-08-28 13:48:58,649 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,649 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,649 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,650 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0433 Milliseconds
+2020-08-28 13:48:58,650 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,650 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,650 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0417 Milliseconds
+2020-08-28 13:48:58,650 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,650 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,650 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0398 Milliseconds
+2020-08-28 13:48:58,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,650 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.074 Milliseconds
+2020-08-28 13:48:58,650 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,650 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,650 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0722 Milliseconds
+2020-08-28 13:48:58,650 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,650 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,651 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1055 Milliseconds
+2020-08-28 13:48:58,651 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,651 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,651 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,651 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,651 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0721 Milliseconds
+2020-08-28 13:48:58,651 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:48:58,651 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:48:58,651 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:48:58,651 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:48:58,651 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0715 Milliseconds
+2020-08-28 13:48:58,651 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:39,102 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:39,104 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,778 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,778 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,781 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1851 Milliseconds
+2020-08-28 13:49:40,781 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,781 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,781 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,781 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,782 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.15 Milliseconds
+2020-08-28 13:49:40,782 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,782 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,782 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,782 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,783 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1293 Milliseconds
+2020-08-28 13:49:40,783 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,783 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,783 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,783 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,784 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1332 Milliseconds
+2020-08-28 13:49:40,784 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,784 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,784 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,784 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,785 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1264 Milliseconds
+2020-08-28 13:49:40,785 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,786 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,786 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,786 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1343 Milliseconds
+2020-08-28 13:49:40,786 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,786 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,786 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,786 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,786 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0687 Milliseconds
+2020-08-28 13:49:40,786 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,786 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,786 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,786 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,786 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1111 Milliseconds
+2020-08-28 13:49:40,786 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,786 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,786 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,786 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,787 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0648 Milliseconds
+2020-08-28 13:49:40,787 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,787 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,787 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,787 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,787 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0435 Milliseconds
+2020-08-28 13:49:40,787 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,787 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,788 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,788 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0167 Milliseconds
+2020-08-28 13:49:40,788 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,788 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,788 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,788 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,788 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0089 Milliseconds
+2020-08-28 13:49:40,788 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,788 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,788 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,788 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,788 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0091 Milliseconds
+2020-08-28 13:49:40,788 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,788 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,788 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,788 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,788 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0091 Milliseconds
+2020-08-28 13:49:40,788 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,788 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,788 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,788 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,788 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0082 Milliseconds
+2020-08-28 13:49:40,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,789 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,789 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0486 Milliseconds
+2020-08-28 13:49:40,789 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,789 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,789 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,789 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0439 Milliseconds
+2020-08-28 13:49:40,789 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,789 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,789 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,789 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0511 Milliseconds
+2020-08-28 13:49:40,789 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,789 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,789 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,789 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0451 Milliseconds
+2020-08-28 13:49:40,789 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,789 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,789 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,789 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0159 Milliseconds
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,790 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0274 Milliseconds
+2020-08-28 13:49:40,790 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,790 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,790 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0272 Milliseconds
+2020-08-28 13:49:40,790 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,790 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,790 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0261 Milliseconds
+2020-08-28 13:49:40,790 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,790 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,790 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0297 Milliseconds
+2020-08-28 13:49:40,790 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,790 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,790 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0295 Milliseconds
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,790 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,791 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.046 Milliseconds
+2020-08-28 13:49:40,791 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,791 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,791 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,791 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,791 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0463 Milliseconds
+2020-08-28 13:49:40,791 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,791 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,791 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,791 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,791 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0422 Milliseconds
+2020-08-28 13:49:40,791 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,791 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,791 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,791 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,791 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0699 Milliseconds
+2020-08-28 13:49:40,791 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,791 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,791 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,791 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,791 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0475 Milliseconds
+2020-08-28 13:49:40,791 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,791 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,791 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,792 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0751 Milliseconds
+2020-08-28 13:49:40,792 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,792 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,792 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,792 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,792 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0722 Milliseconds
+2020-08-28 13:49:40,792 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,792 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,792 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,792 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,792 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0722 Milliseconds
+2020-08-28 13:49:40,792 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,792 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,792 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,792 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,792 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0729 Milliseconds
+2020-08-28 13:49:40,792 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 13:49:40,792 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 100
+2020-08-28 13:49:40,792 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 13:49:40,792 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 13:49:40,792 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0714 Milliseconds
+2020-08-28 13:49:40,792 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:00,791 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:00,794 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,012 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,012 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,014 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0101 Milliseconds
+2020-08-28 14:21:03,014 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,014 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,014 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,014 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,014 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.003 Milliseconds
+2020-08-28 14:21:03,014 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,014 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,015 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,015 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,015 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0034 Milliseconds
+2020-08-28 14:21:03,015 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,015 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,015 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,015 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,015 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0029 Milliseconds
+2020-08-28 14:21:03,015 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,015 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,015 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,015 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,015 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0027 Milliseconds
+2020-08-28 14:21:03,016 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,016 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,016 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,016 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0129 Milliseconds
+2020-08-28 14:21:03,016 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,016 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,016 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,016 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,016 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0072 Milliseconds
+2020-08-28 14:21:03,016 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,016 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,016 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,016 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,016 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0073 Milliseconds
+2020-08-28 14:21:03,016 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,016 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,016 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,016 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0093 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,017 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0071 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0054 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,017 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0024 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,017 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0024 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,017 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0023 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,017 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0027 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,017 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,017 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0093 Milliseconds
+2020-08-28 14:21:03,017 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0054 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0052 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0054 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0055 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0053 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0028 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0031 Milliseconds
+2020-08-28 14:21:03,018 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,018 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,018 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,018 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,018 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0026 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0028 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0019 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0019 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0019 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0019 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0017 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0041 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0024 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0024 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0024 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:03,020 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:03,020 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:03,020 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0025 Milliseconds
+2020-08-28 14:21:03,020 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:47,111 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:47,113 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,611 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,612 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,614 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0113 Milliseconds
+2020-08-28 14:21:48,614 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,614 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,614 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,614 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,614 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0034 Milliseconds
+2020-08-28 14:21:48,614 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,614 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,614 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,614 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,614 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0028 Milliseconds
+2020-08-28 14:21:48,614 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,614 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,614 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,614 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,615 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0031 Milliseconds
+2020-08-28 14:21:48,615 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,615 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,615 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,615 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,615 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0029 Milliseconds
+2020-08-28 14:21:48,615 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,616 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0129 Milliseconds
+2020-08-28 14:21:48,616 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,616 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,616 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0069 Milliseconds
+2020-08-28 14:21:48,616 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,616 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,616 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0071 Milliseconds
+2020-08-28 14:21:48,616 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,616 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,616 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.009 Milliseconds
+2020-08-28 14:21:48,616 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,616 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,616 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0069 Milliseconds
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,616 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,617 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,617 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.005 Milliseconds
+2020-08-28 14:21:48,617 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,617 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,617 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,617 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,617 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0022 Milliseconds
+2020-08-28 14:21:48,617 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,617 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,617 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0021 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,618 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0022 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,618 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0021 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0095 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,618 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0053 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,618 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0051 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,618 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,618 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,618 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,618 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0071 Milliseconds
+2020-08-28 14:21:48,618 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,619 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0055 Milliseconds
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0055 Milliseconds
+2020-08-28 14:21:48,619 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,619 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0029 Milliseconds
+2020-08-28 14:21:48,619 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,619 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0025 Milliseconds
+2020-08-28 14:21:48,619 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,619 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0031 Milliseconds
+2020-08-28 14:21:48,619 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,619 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,619 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,619 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0029 Milliseconds
+2020-08-28 14:21:48,619 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,620 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,620 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,620 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.003 Milliseconds
+2020-08-28 14:21:48,620 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,620 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,620 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,620 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,620 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0017 Milliseconds
+2020-08-28 14:21:48,620 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,620 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,620 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,620 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,620 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0015 Milliseconds
+2020-08-28 14:21:48,620 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,620 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,620 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,620 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,620 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0014 Milliseconds
+2020-08-28 14:21:48,620 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,620 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,620 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,620 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,620 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0016 Milliseconds
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,621 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,621 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.004 Milliseconds
+2020-08-28 14:21:48,621 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,621 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,621 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,621 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0024 Milliseconds
+2020-08-28 14:21:48,621 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,621 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,621 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,621 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0023 Milliseconds
+2020-08-28 14:21:48,621 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,621 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,621 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,621 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0023 Milliseconds
+2020-08-28 14:21:48,621 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:21:48,621 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:21:48,621 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:21:48,621 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0023 Milliseconds
+2020-08-28 14:21:48,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:54,394 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:54,397 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,140 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,140 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,275 INFO c.s.c.u.SpeedTest [main] Speed test completed in 107.7542 Milliseconds
+2020-08-28 14:22:56,275 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,276 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,276 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,276 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,399 INFO c.s.c.u.SpeedTest [main] Speed test completed in 105.946 Milliseconds
+2020-08-28 14:22:56,399 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,399 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,399 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,399 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,510 INFO c.s.c.u.SpeedTest [main] Speed test completed in 96.2971 Milliseconds
+2020-08-28 14:22:56,510 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,511 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,511 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,511 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,621 INFO c.s.c.u.SpeedTest [main] Speed test completed in 96.1803 Milliseconds
+2020-08-28 14:22:56,621 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,621 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,621 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,621 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,736 INFO c.s.c.u.SpeedTest [main] Speed test completed in 95.0821 Milliseconds
+2020-08-28 14:22:56,737 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,738 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,738 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,740 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.4159 Milliseconds
+2020-08-28 14:22:56,741 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,741 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,741 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,741 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,743 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.7699 Milliseconds
+2020-08-28 14:22:56,743 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,743 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,743 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,743 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,744 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.0612 Milliseconds
+2020-08-28 14:22:56,744 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,745 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,745 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,745 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,746 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.9023 Milliseconds
+2020-08-28 14:22:56,746 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,746 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,746 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,746 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,747 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.936 Milliseconds
+2020-08-28 14:22:56,747 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,747 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,750 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,751 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.6961 Milliseconds
+2020-08-28 14:22:56,751 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,751 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,751 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,753 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,753 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0877 Milliseconds
+2020-08-28 14:22:56,753 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,753 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,753 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,755 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,755 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1185 Milliseconds
+2020-08-28 14:22:56,755 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,755 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,755 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,758 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,758 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0827 Milliseconds
+2020-08-28 14:22:56,758 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,758 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,758 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,760 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,760 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0691 Milliseconds
+2020-08-28 14:22:56,760 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,761 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,761 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,763 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.0871 Milliseconds
+2020-08-28 14:22:56,763 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,763 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,764 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,764 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,765 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.6985 Milliseconds
+2020-08-28 14:22:56,765 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,766 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,766 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,766 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,767 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.6846 Milliseconds
+2020-08-28 14:22:56,767 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,768 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,768 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,768 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,769 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.7679 Milliseconds
+2020-08-28 14:22:56,769 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,769 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,769 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,769 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,771 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.0463 Milliseconds
+2020-08-28 14:22:56,771 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,771 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,771 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,773 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.8136 Milliseconds
+2020-08-28 14:22:56,773 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,774 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,774 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,774 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,775 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.8603 Milliseconds
+2020-08-28 14:22:56,775 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,775 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,775 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,775 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,776 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.871 Milliseconds
+2020-08-28 14:22:56,776 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,776 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,776 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,776 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,776 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.4012 Milliseconds
+2020-08-28 14:22:56,776 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,777 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,777 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,777 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,777 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.4272 Milliseconds
+2020-08-28 14:22:56,777 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,777 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,777 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,789 INFO c.s.c.u.SpeedTest [main] Speed test completed in 11.12 Milliseconds
+2020-08-28 14:22:56,789 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,789 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,789 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,789 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,800 INFO c.s.c.u.SpeedTest [main] Speed test completed in 10.8602 Milliseconds
+2020-08-28 14:22:56,800 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,800 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,801 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,801 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,808 INFO c.s.c.u.SpeedTest [main] Speed test completed in 7.1352 Milliseconds
+2020-08-28 14:22:56,808 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,808 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,808 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,808 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,815 INFO c.s.c.u.SpeedTest [main] Speed test completed in 6.9559 Milliseconds
+2020-08-28 14:22:56,815 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,815 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,815 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,815 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,822 INFO c.s.c.u.SpeedTest [main] Speed test completed in 7.0225 Milliseconds
+2020-08-28 14:22:56,822 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,822 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,823 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,872 INFO c.s.c.u.SpeedTest [main] Speed test completed in 49.047 Milliseconds
+2020-08-28 14:22:56,872 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,872 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,872 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,872 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,919 INFO c.s.c.u.SpeedTest [main] Speed test completed in 46.5331 Milliseconds
+2020-08-28 14:22:56,919 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,919 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,919 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,919 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,940 INFO c.s.c.u.SpeedTest [main] Speed test completed in 21.0436 Milliseconds
+2020-08-28 14:22:56,940 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,940 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,940 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,941 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,961 INFO c.s.c.u.SpeedTest [main] Speed test completed in 20.7234 Milliseconds
+2020-08-28 14:22:56,961 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:22:56,962 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:22:56,962 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:22:56,962 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:22:56,983 INFO c.s.c.u.SpeedTest [main] Speed test completed in 20.8612 Milliseconds
+2020-08-28 14:22:56,983 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:32,272 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:32,275 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:34,941 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:34,941 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,050 INFO c.s.c.u.SpeedTest [main] Speed test completed in 107.8999 Milliseconds
+2020-08-28 14:24:35,050 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,050 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,050 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,050 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,157 INFO c.s.c.u.SpeedTest [main] Speed test completed in 105.9243 Milliseconds
+2020-08-28 14:24:35,157 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,157 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,157 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,157 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,260 INFO c.s.c.u.SpeedTest [main] Speed test completed in 102.6632 Milliseconds
+2020-08-28 14:24:35,260 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,260 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,260 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,260 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,363 INFO c.s.c.u.SpeedTest [main] Speed test completed in 102.52 Milliseconds
+2020-08-28 14:24:35,363 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,363 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,363 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,363 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,465 INFO c.s.c.u.SpeedTest [main] Speed test completed in 101.7113 Milliseconds
+2020-08-28 14:24:35,465 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,466 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,466 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,468 INFO c.s.c.u.SpeedTest [main] Speed test completed in 2.49 Milliseconds
+2020-08-28 14:24:35,468 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,469 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,469 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,469 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,471 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.9396 Milliseconds
+2020-08-28 14:24:35,471 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,472 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,472 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,472 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,478 INFO c.s.c.u.SpeedTest [main] Speed test completed in 5.8148 Milliseconds
+2020-08-28 14:24:35,478 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,478 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,478 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,478 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,479 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.0395 Milliseconds
+2020-08-28 14:24:35,479 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,480 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,480 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,480 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,481 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.4697 Milliseconds
+2020-08-28 14:24:35,481 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,481 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,484 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,485 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.6753 Milliseconds
+2020-08-28 14:24:35,485 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,485 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,486 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,487 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,487 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1404 Milliseconds
+2020-08-28 14:24:35,487 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,488 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,488 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,489 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,489 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.1765 Milliseconds
+2020-08-28 14:24:35,489 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,489 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,489 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,491 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,491 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.0894 Milliseconds
+2020-08-28 14:24:35,491 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,492 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,492 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,493 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,493 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.074 Milliseconds
+2020-08-28 14:24:35,493 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,495 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,495 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,497 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.9012 Milliseconds
+2020-08-28 14:24:35,497 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,497 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,497 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,497 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,499 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.7255 Milliseconds
+2020-08-28 14:24:35,499 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,499 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,499 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,499 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,501 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.7814 Milliseconds
+2020-08-28 14:24:35,501 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,502 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,502 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,502 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,503 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.6546 Milliseconds
+2020-08-28 14:24:35,504 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,504 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,504 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,504 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,506 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.8006 Milliseconds
+2020-08-28 14:24:35,506 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,506 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,506 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,508 INFO c.s.c.u.SpeedTest [main] Speed test completed in 1.5571 Milliseconds
+2020-08-28 14:24:35,508 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,508 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,508 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,508 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,509 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.8749 Milliseconds
+2020-08-28 14:24:35,509 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,509 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,509 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,509 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,510 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.5241 Milliseconds
+2020-08-28 14:24:35,510 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,510 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,510 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,510 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,510 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.3923 Milliseconds
+2020-08-28 14:24:35,510 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,511 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,511 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,511 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,511 INFO c.s.c.u.SpeedTest [main] Speed test completed in 0.3941 Milliseconds
+2020-08-28 14:24:35,511 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,511 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,511 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,523 INFO c.s.c.u.SpeedTest [main] Speed test completed in 11.4895 Milliseconds
+2020-08-28 14:24:35,523 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,523 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,523 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,524 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,533 INFO c.s.c.u.SpeedTest [main] Speed test completed in 9.4639 Milliseconds
+2020-08-28 14:24:35,533 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,533 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,533 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,533 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,540 INFO c.s.c.u.SpeedTest [main] Speed test completed in 6.997 Milliseconds
+2020-08-28 14:24:35,540 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,540 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,540 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,540 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,547 INFO c.s.c.u.SpeedTest [main] Speed test completed in 6.9583 Milliseconds
+2020-08-28 14:24:35,547 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,547 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,547 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,547 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,554 INFO c.s.c.u.SpeedTest [main] Speed test completed in 6.9386 Milliseconds
+2020-08-28 14:24:35,554 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,554 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,555 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,604 INFO c.s.c.u.SpeedTest [main] Speed test completed in 48.7823 Milliseconds
+2020-08-28 14:24:35,604 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,604 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,604 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,604 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,650 INFO c.s.c.u.SpeedTest [main] Speed test completed in 46.1892 Milliseconds
+2020-08-28 14:24:35,650 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,650 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,650 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,650 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,671 INFO c.s.c.u.SpeedTest [main] Speed test completed in 20.647 Milliseconds
+2020-08-28 14:24:35,671 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,671 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,671 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,671 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,692 INFO c.s.c.u.SpeedTest [main] Speed test completed in 20.7168 Milliseconds
+2020-08-28 14:24:35,692 TRACE c.s.c.u.ArrayGenerator [main] Generating Array
+2020-08-28 14:24:35,693 INFO c.s.c.u.ArrayGenerator [main] Generated array of length: 10000
+2020-08-28 14:24:35,693 TRACE c.s.c.m.SortFactory [main] Creating Sort
+2020-08-28 14:24:35,693 TRACE c.s.c.u.SpeedTest [main] Testing Speed
+2020-08-28 14:24:35,714 INFO c.s.c.u.SpeedTest [main] Speed test completed in 20.9056 Milliseconds
+2020-08-28 14:24:35,714 TRACE c.s.c.m.SortFactory [main] Creating Sort

@@ -5,8 +5,11 @@ import com.sparta.cm.sortermethods.Sort;
 import com.sparta.cm.sortermethods.Sorter;
 import com.sparta.cm.sortermethods.binarysearchtree.BinaryTree;
 import com.sparta.cm.sortermethods.binarysearchtree.Node;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class BinaryTreeSorter extends Sort implements BinaryTree {
+    private static final Logger logger = LogManager.getLogger();
     private Node root;
     int size = 0;
     static int numberOfSortedElements;
@@ -23,6 +26,9 @@ public class BinaryTreeSorter extends Sort implements BinaryTree {
         return output;
     }
     public void buildTree(int[] array){
+        root = null;
+        size = 0;
+        numberOfSortedElements=0;
         addElements(array);
     }
 
@@ -127,6 +133,7 @@ public class BinaryTreeSorter extends Sort implements BinaryTree {
         }
         outputArray[numberOfSortedElements] = node.getKey();
         numberOfSortedElements++;
+
         if(node.isThereARightChild()){
             traverse(node.getRightNode());
         }

@@ -23,6 +23,6 @@ public class SelectionSorter extends Sort{
 
     @Override
     public String getName() {
-        return super.getName();
+        return "SelectionSort";
     }
 }
