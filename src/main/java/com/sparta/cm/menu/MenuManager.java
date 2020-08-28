@@ -20,7 +20,7 @@ public class MenuManager {
             int length = choices[1];
             int[] generatedArray = ArrayGenerator.generateArray(length);
             if(choice==0){
-                compareMenu(generatedArray);
+                showSecondaryMenu(generatedArray);
             }else {
                 showUnsortedArray(generatedArray);
                 double time = TimeManager.getSortedArrayTime(choice, generatedArray, true);
@@ -36,7 +36,7 @@ public class MenuManager {
         }
     }
 
-    public static void compareMenu(int[] generatedArray){
+    public static void showSecondaryMenu(int[] generatedArray){
         showOtherOptions();
         int choice = getValueFromCommandLine(0,3);
         if (choice == 0){
@@ -73,16 +73,13 @@ public class MenuManager {
     }
 
     public static int[] getChoiceInput(int maxChoice) {
-        Scanner sc = new Scanner(System.in);
-        int choice = sc.nextInt();
-        if (choice <= -1 || choice > maxChoice) {
-            System.exit(0);
-        }
+
+        int choice =getValueFromCommandLine(0, maxChoice);
         int length = -1;
-        while (length<1){
-            System.out.println("Enter length of array to automatically generate:");
-            length= sc.nextInt();
-        }
+
+        System.out.println("Enter length of array to automatically generate:");
+        length= getValueFromCommandLine(1, Integer.MAX_VALUE);
+
         int[] output = new int[2];
         output[0] = choice;
         output[1]=length;
@@ -90,11 +87,22 @@ public class MenuManager {
     }
     public static int getValueFromCommandLine(int lowest, int max){
         Scanner sc = new Scanner(System.in);
-        int choice = sc.nextInt();
-        if (choice <lowest || choice > max) {
-            System.out.println("Invalid choice");
+        int choice = -1;
+        String choiceString = sc.nextLine();
+        try{
+            choice = Integer.parseInt(choiceString);
+        }catch(NumberFormatException e){
+            System.out.println("Must be an integer");
+            choice =getValueFromCommandLine(lowest, max);
+        }
+        if (choice==-1){
             System.exit(0);
         }
+        else if (choice <lowest || choice > max) {
+            System.out.println("Invalid choice");
+            choice = getValueFromCommandLine(lowest,max);
+        }
+
 
         return choice;
 
